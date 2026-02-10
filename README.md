@@ -2,7 +2,7 @@
 
 I'm a developer and ML enthusiast based in **Toronto, Canada**. I believe in building technology that bridges the gaps between humans and computers.
 
-### 🛠 What I'm currently working on
+### What I'm currently working on
 - **Music Transformer:** Experimenting with attention-based models and genetic algorithms to generate creative compositions.
 - **Fraud Detection Model:** Currently competing in a financial ML competition to refine my data modeling skills.
 - **Ascension SMP:** A server-side only Minecraft mod centered around seven orders of the natural world.
