@@ -8,7 +8,7 @@ I'm a developer and ML enthusiast based in **Toronto, Canada**. I believe in bui
 - **Ascension SMP:** A server-side only Minecraft mod centered around seven orders of the natural world.
 
 ### Stats
-![Alex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=freq1062&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=freq1062&show_icons=true&theme=radical)
 
 ### Contribution Graph
 ![Snake animation](https://github.com/freq1062/freq1062/blob/output/github-contribution-grid-snake.svg)
