@@ -7,9 +7,7 @@ I'm a developer and ML enthusiast based in **Toronto, Canada**. I believe in bui
 - **Fraud Detection Model:** Currently competing in a financial ML competition to refine my data modeling skills.
 - **Ascension SMP:** A server-side only Minecraft mod centered around seven orders of the natural world.
 
-<img src="https://github-readme-stats.vercel.app/api?username=freq1062&show_icons=true&theme=transparent" alt="Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=freq1062&layout=compact&theme=transparent" alt="Top Languages" />
+[![GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=freq1062&show_icons=true&theme=radical)](https://github.com/freq1062)
 
 ### Let's Connect
 - In my free time, I frequently attend hackathons, play piano, and cook.
