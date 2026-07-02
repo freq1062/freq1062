@@ -1,13 +1,25 @@
 # Hey there, I'm Alex 👋
 
-I'm a developer and ML enthusiast based in **Toronto, Canada**. I believe in building technology that bridges the gaps between humans and computers.
+I'm a developer and ML enthusiast based in **Oakville, Canada**. I hope to someday build truly intelligent, continuously learning technology to help society.
 
-### What I'm currently working on
-- **Music Transformer:** Experimenting with attention-based models and genetic algorithms to generate creative compositions.
-- **Fraud Detection Model:** Currently competing in a financial ML competition to refine my data modeling skills.
-- **Ascension SMP:** A server-side only Minecraft mod centered around seven orders of the natural world.
+### Some Projects I'm Proud of
 
-[![GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=freq1062&show_icons=true&theme=radical)](https://github.com/freq1062)
+## Ongoing:
+- **Synthespace:** A mobile and web app that turns your room into a fully segmented 3D model for easy visualization. (Initially submitted to GenAI Genesis 2026)
+- **Personal memory:** A self-hosted, open source agentic memory layer that gives total data control and competes with cutting edge solutions.
+
+## 2026:
+- **Project Aegis:** Unsupervised machine learning pipeline using Graph Neural Networks to detect financial fraud. (Finalist at the IMI Big Data 2026 Case competition)
+- **SolNet:** Hierarchal IoT device framework that secures data packets using Solana blockchain. (Winner at Deerhacks V)
+- **Ascension SMP:** Server-side only Minecraft mod with custom display rendering, menus, persistent storage, items/spells and more.
+
+## 2025:
+- **Let's Get Together Chatbot:** Totally free tech support chatbot with RAG, OCR and automatic translation all done in Google apps.
+- **ZED.AI:** Agentic voice activated study helper using Gemini Computer Use. (Winner at Emberhacks)
+- **Immortals SMP:** Client and server-side Minecraft mod with custom shaders, abilities, dimensions and lore.
+
+## Earlier:
+- **Music Transformer VS Genetic Algorithm:** A decoder-only transformer and a genetic algorithm to synthesize MIDI sequences. (For IB Extended Essay)
 
 ### Let's Connect
 - In my free time, I frequently attend hackathons, play piano, and cook.
